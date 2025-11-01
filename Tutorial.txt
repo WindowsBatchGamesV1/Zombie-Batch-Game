@@ -1,0 +1,12 @@
+████████╗██╗   ██╗████████╗ ██████╗ ██████╗ ██╗ █████╗ ██╗     
+╚══██╔══╝██║   ██║╚══██╔══╝██╔═══██╗██╔══██╗██║██╔══██╗██║     
+   ██║   ██║   ██║   ██║   ██║   ██║██████╔╝██║███████║██║     
+   ██║   ██║   ██║   ██║   ██║   ██║██╔═══╝ ██║██╔══██║██║     
+   ██║   ╚██████╔╝   ██║   ╚██████╔╝██║     ██║██║  ██║███████╗
+   ╚═╝    ╚═════╝    ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+
+
+
+1 Step: Copy the code and put it in a txt file.
+2 Step: Go to the file option and save as any file and name it zombie-survial.bat
+3 Step: Double click on the file and enjoy the Zombie game
